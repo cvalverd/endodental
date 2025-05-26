@@ -405,7 +405,7 @@ export default function ClientPage() {
             <div className="max-w-4xl mx-auto text-center">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Agenda tu Consulta Hoy</h2>
               <p className="text-xl mb-8 text-blue-100">
-                No esperes más para solucionar tu problema dental. Contáctanos y programa tu consulta sin costo.
+                No esperes más para solucionar tu problema dental. Contáctanos y programa tu consulta.
               </p>
 
               <div className="grid md:grid-cols-3 gap-8 mb-12">
@@ -511,7 +511,6 @@ export default function ClientPage() {
                     <Clock className="w-4 h-4" />
                     <span>Sáb: 9:00 - 13:00</span>
                   </div>
-                  <p className="text-sm">Consulta sin costo disponible</p>
                 </div>
               </div>
             </div>
