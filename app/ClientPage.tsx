@@ -180,7 +180,7 @@ export default function ClientPage() {
                 </div>
                 <div>
                   <img
-                    src="/Instalaciones.jpg.svg?height=400&width=500"
+                    src="/Instalaciones.jpg?height=400&width=500"
                     alt="Procedimiento de endodoncia"
                     className="rounded-lg shadow-lg"
                   />
