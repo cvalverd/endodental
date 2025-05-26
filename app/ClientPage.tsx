@@ -516,7 +516,7 @@ export default function ClientPage() {
             </div>
 
             <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-              <p>&copy; 2024 Endodoncia Viña - Dra. María Ignacia Moenne. Todos los derechos reservados.</p>
+              <p>&copy; 2025 Endodoncia Viña - Dra. María Ignacia Moenne. Todos los derechos reservados.</p>
             </div>
           </div>
         </footer>
