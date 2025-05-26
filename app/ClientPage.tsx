@@ -80,8 +80,8 @@ export default function ClientPage() {
                     size="lg"
                     onClick={() =>
                       window.open(
-                        `https://ff.healthatom.io/uTxTZ6,
-                        "_blank",
+                        "https://ff.healthatom.io/uTxTZ6",
+                        "_blank"
                       )
                     }
                     className="bg-blue-600 hover:bg-blue-700 text-lg px-8 py-4"
