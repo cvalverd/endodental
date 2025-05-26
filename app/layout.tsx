@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     url: "https://endodoncia-vina.vercel.app",
     siteName: "Endodoncia Viña",
     title: "Endodoncia en Viña del Mar - Dra. María Ignacia Moenne",
-    description: "Especialista en endodoncia con tecnología avanzada. Consulta sin costo.",
+    description: "Especialista en endodoncia con tecnología avanzada. Consulta sin costo online.",
     images: [
       {
         url: "/og-image.jpg",
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Endodoncia en Viña del Mar - Dra. María Ignacia Moenne",
-    description: "Especialista en endodoncia con tecnología avanzada. Consulta sin costo.",
+    description: "Especialista en endodoncia con tecnología avanzada. Consulta sin costo online.",
     images: ["/og-image.jpg"],
   },
   viewport: "width=device-width, initial-scale=1, maximum-scale=5",
