@@ -119,7 +119,7 @@ export default function ClientPage() {
               </div>
               <div className="relative">
                 <img
-                  src="/placeholder.svg?height=500&width=600"
+                  src="/Logo-Endodental.jpg?height=500&width=600"
                   alt="Consultorio dental moderno en Viña del Mar"
                   className="rounded-lg shadow-2xl"
                 />
