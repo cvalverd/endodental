@@ -119,7 +119,7 @@ export default function ClientPage() {
               </div>
               <div className="relative">
                 <img
-                  src="/Logo-Endodental.jpg?height=500&width=600"
+                  src="/sonrisa.png?height=500&width=600"
                   alt="Consultorio dental moderno en Viña del Mar"
                   className="rounded-lg shadow-2xl"
                 />
@@ -180,7 +180,7 @@ export default function ClientPage() {
                 </div>
                 <div>
                   <img
-                    src="/placeholder.svg?height=400&width=500"
+                    src="/Instalaciones.jpg.svg?height=400&width=500"
                     alt="Procedimiento de endodoncia"
                     className="rounded-lg shadow-lg"
                   />
