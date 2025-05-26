@@ -80,7 +80,7 @@ export default function ClientPage() {
                     size="lg"
                     onClick={() =>
                       window.open(
-                        `https://ff.healthatom.io/uTxTZ6",
+                        `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`,
                         "_blank",
                       )
                     }
