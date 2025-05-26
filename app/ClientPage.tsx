@@ -93,13 +93,13 @@ export default function ClientPage() {
                     size="lg"
                     onClick={() =>
                       window.open(
-                        `https://wa.me/${whatsappNumber}?text=${encodeURIComponent("Hola, me gustaría una consulta sin costo")}`,
+                        `https://wa.me/${whatsappNumber}?text=${encodeURIComponent("Hola, me gustaría una consulta")}`,
                         "_blank",
                       )
                     }
                     className="text-lg px-8 py-4"
                   >
-                    Consulta Sin Costo
+                    Consulta Sin Costo Online
                   </Button>
                 </div>
                 <div className="flex items-center space-x-6 text-sm text-gray-600">
