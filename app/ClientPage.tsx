@@ -509,7 +509,7 @@ export default function ClientPage() {
                   </div>
                   <div className="flex items-center space-x-2">
                     <Clock className="w-4 h-4" />
-                    <span>Sáb: 9:00 - 13:00</span>
+                    <span></span>
                   </div>
                 </div>
               </div>
