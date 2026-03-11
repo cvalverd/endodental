@@ -39,7 +39,7 @@ export default function ClientPage() {
                 <img 
                   src="/images/endodental-logo.jpeg" 
                   alt="Endodental - Profesionales en salud oral" 
-                  className="h-32 w-auto"
+                  className="h-44 w-auto"
                 />
                 <div className="border-l-2 border-gray-300 pl-4">
                   <p className="text-base md:text-lg text-gray-600 font-medium">Dra. María Ignacia Moenne</p>
