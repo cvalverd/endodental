@@ -35,12 +35,15 @@ export default function ClientPage() {
         <header className="bg-white shadow-sm sticky top-0 z-50">
           <div className="container mx-auto px-4 py-4">
             <div className="flex justify-between items-center">
-              <div className="flex items-center">
+              <div className="flex items-center space-x-3">
                 <img 
                   src="/images/endodental-logo.jpeg" 
                   alt="Endodental - Profesionales en salud oral" 
-                  className="h-14 w-auto"
+                  className="h-12 w-auto"
                 />
+                <div className="border-l border-gray-300 pl-3">
+                  <p className="text-sm text-gray-600">Dra. María Ignacia Moenne</p>
+                </div>
               </div>
               <div className="hidden md:flex items-center space-x-6">
                 <div className="flex items-center space-x-2 text-sm text-gray-600">
