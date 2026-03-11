@@ -64,15 +64,16 @@ export default function ClientPage() {
         </header>
 
         {/* Hero Section */}
-        <section className="bg-gradient-to-br from-blue-50 to-white py-16 md:py-24">
+        <section className="bg-gradient-to-br from-blue-100 to-blue-50 py-16 md:py-24">
           <div className="container mx-auto px-4">
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div>
                 <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-                  Especialistas en tratamientos de conducto en <span className="text-blue-600">Viña del Mar</span>
+                  Endodoncia Sin Dolor en <span className="text-blue-600">Viña del Mar</span>
                 </h1>
                 <p className="text-xl text-gray-600 mb-8">
-                  Atención rápida. | Tecnología moderna. | Tratamiento sin dolor
+                  Especialista en tratamiento de conducto con tecnología avanzada. Salva tu diente natural y elimina el
+                  dolor definitivamente.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 mb-8">
                   <Button
