@@ -64,7 +64,7 @@ export default function ClientPage() {
         </header>
 
         {/* Hero Section */}
-        <section className="bg-gradient-to-br from-slate-50 to-white py-16 md:py-24">
+        <section className="bg-gradient-to-br from-blue-50 to-gray-50 py-16 md:py-24">
           <div className="container mx-auto px-4">
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div>
