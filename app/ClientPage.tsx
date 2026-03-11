@@ -35,14 +35,12 @@ export default function ClientPage() {
         <header className="bg-white shadow-sm sticky top-0 z-50">
           <div className="container mx-auto px-4 py-4">
             <div className="flex justify-between items-center">
-              <div className="flex items-center space-x-2">
-                <div className="w-10 h-10 bg-blue-600 rounded-full flex items-center justify-center">
-                  <span className="text-white font-bold text-lg">E</span>
-                </div>
-                <div>
-                  <h1 className="text-xl font-bold text-gray-900">Endodoncia Viña</h1>
-                  <p className="text-sm text-gray-600">Dra. María Ignacia Moenne</p>
-                </div>
+              <div className="flex items-center">
+                <img 
+                  src="/images/endodental-logo.jpeg" 
+                  alt="Endodental - Profesionales en salud oral" 
+                  className="h-14 w-auto"
+                />
               </div>
               <div className="hidden md:flex items-center space-x-6">
                 <div className="flex items-center space-x-2 text-sm text-gray-600">
@@ -468,14 +466,12 @@ export default function ClientPage() {
           <div className="container mx-auto px-4">
             <div className="grid md:grid-cols-3 gap-8">
               <div>
-                <div className="flex items-center space-x-2 mb-4">
-                  <div className="w-10 h-10 bg-blue-600 rounded-full flex items-center justify-center">
-                    <span className="text-white font-bold text-lg">E</span>
-                  </div>
-                  <div>
-                    <h3 className="text-xl font-bold">Endodoncia Viña</h3>
-                    <p className="text-gray-400">Dra. María Ignacia Moenne</p>
-                  </div>
+                <div className="mb-4">
+                  <img 
+                    src="/images/endodental-logo.jpeg" 
+                    alt="Endodental - Profesionales en salud oral" 
+                    className="h-14 w-auto bg-white rounded p-1"
+                  />
                 </div>
                 <p className="text-gray-400">
                   Especialista en endodoncia con tecnología avanzada para tratamientos sin dolor en Viña del Mar.
