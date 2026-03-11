@@ -69,11 +69,10 @@ export default function ClientPage() {
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div>
                 <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-                  Endodoncia Sin Dolor en <span className="text-blue-600">Viña del Mar</span>
+                  Especialistas en tratamientos de conducto en <span className="text-blue-600">Viña del Mar</span>
                 </h1>
                 <p className="text-xl text-gray-600 mb-8">
-                  Especialista en tratamiento de conducto con tecnología avanzada. Salva tu diente natural y elimina el
-                  dolor definitivamente.
+                  Atención rápida. | Tecnología moderna. | Tratamiento sin dolor
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 mb-8">
                   <Button
