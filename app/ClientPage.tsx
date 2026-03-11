@@ -36,11 +36,11 @@ export default function ClientPage() {
           <div className="container mx-auto px-4 py-2">
             <div className="flex justify-between items-center">
               <div className="flex items-center space-x-4">
-                <div className="overflow-hidden h-16 md:h-20">
+                <div className="overflow-hidden h-20 md:h-28">
                   <img 
                     src="/images/endodental-logo.jpeg" 
                     alt="Endodental - Profesionales en salud oral" 
-                    className="h-32 md:h-40 w-auto -mt-6 md:-mt-8"
+                    className="h-44 md:h-56 w-auto -mt-8 md:-mt-12"
                   />
                 </div>
                 <div className="border-l-2 border-gray-300 pl-4">
